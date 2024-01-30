@@ -1,0 +1,46 @@
+{
+  "wallpapers": {
+    "new": {
+      "1": {
+        "title": "Example Color 1",
+        "url": "main_window",
+        "width": 1920,
+        "height": 1080
+      },
+      "2": {
+        "title": "Example Color 2",
+        "url": "main_window",
+        "width": 1920,
+        "height": 1080
+      },
+      "3": {
+        "title": "Example Color 3",
+        "url": "main_window",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "wallpaper": {
+      "colors": {
+        "1": {
+          "title": "Example Color 1",
+          "url": "main_window",
+          "width": 1920,
+          "height": 1080
+        },
+        "2": {
+          "title": "Example Color 2",
+          "url": "main_window",
+          "width": 1920,
+          "height": 1080
+        },
+        "3": {
+          "title": "Example Color 3",
+          "url": "main_window",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    }
+  }
+}
