@@ -4,24 +4,24 @@
       "1": {
         "title": "Example Color 1",
         "description": "Red",
-        "url_light": "main_window",
-        "url_dark": "main_window",
+        "url_light": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_1/light.png",
+        "url_dark": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_1/dark.png",
         "width": 1920,
         "height": 1080
       },
       "2": {
         "title": "Example Color 2",
         "description": "Green",
-        "url_light": "main_window",
-        "url_dark": "main_window",
+        "url_light": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_2/light.png",
+        "url_dark": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_2/dark.png",
         "width": 1920,
         "height": 1080
       },
       "3": {
         "title": "Example Color 3",
         "description": "Blue",
-        "url_light": "main_window",
-        "url_dark": "main_window",
+        "url_light": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_3/light.png",
+        "url_dark": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_3/dark.png",
         "width": 1920,
         "height": 1080
       }
@@ -31,24 +31,24 @@
         "1": {
           "title": "Example Color 1",
           "description": "Red",
-          "url_light": "main_window",
-          "url_dark": "main_window",
+          "url_light": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_1/light.png",
+          "url_dark": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_1/dark.png",
           "width": 1920,
           "height": 1080
         },
         "2": {
           "title": "Example Color 2",
           "description": "Green",
-          "url_light": "main_window",
-          "url_dark": "main_window",
+          "url_light": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_2/light.png",
+          "url_dark": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_2/dark.png",
           "width": 1920,
           "height": 1080
         },
         "3": {
           "title": "Example Color 3",
           "description": "Blue",
-          "url_light": "main_window",
-          "url_dark": "main_window",
+          "url_light": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_3/light.png",
+          "url_dark": "https://raw.githubusercontent.com/FunneProject/json-assets/main/wallpapers/colors/example_color_3/dark.png",
           "width": 1920,
           "height": 1080
         }
